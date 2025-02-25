@@ -5,8 +5,11 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/zccott/count.svg?"  />
 </div>
-<div align="center">
+
 ###
+
+<div align="center">
+
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=zccott&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
