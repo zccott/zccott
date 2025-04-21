@@ -1,6 +1,6 @@
 <h6 align="center">Hi 👋! I'm Rahul, a passionate Frontend Developer with a knack for creating intuitive and responsive web applications</h6>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)](https://leetcard.jacoblin.cool/lapor?ext=contest)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/zccott?ext=contest)](https://leetcard.jacoblin.cool/zccott?ext=contest)
 
 ###
 
