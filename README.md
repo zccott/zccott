@@ -1,5 +1,7 @@
 <h6 align="center">Hi 👋! I'm Rahul, a passionate Frontend Developer with a knack for creating intuitive and responsive web applications</h6>
 
+[![CodeFactor](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
+
 ###
 
 <div align="center">
