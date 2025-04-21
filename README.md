@@ -20,7 +20,9 @@
 ---
 
 <div align="center">
+  
   [![Leetcode Stats](https://leetcard.jacoblin.cool/zccott?ext=contest)](https://leetcard.jacoblin.cool/zccott?ext=contest)
+  
 </div>
 
 ###
