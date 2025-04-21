@@ -10,6 +10,12 @@
 ###
 
 <div align="center">
+  
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/zccott?ext=contest)](https://leetcard.jacoblin.cool/zccott?ext=contest)
+  
+</div>
+
+<div align="center">
 
 ---
 
@@ -19,11 +25,6 @@
 
 ---
 
-<div align="center">
-  
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/zccott?ext=contest)](https://leetcard.jacoblin.cool/zccott?ext=contest)
-  
-</div>
 
 ###
 
