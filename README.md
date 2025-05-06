@@ -18,15 +18,15 @@
       </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=zccott&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=zccott&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zccott&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zccott&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zccott&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zccott&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
