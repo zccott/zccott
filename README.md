@@ -55,8 +55,8 @@ A passionate Web Developer with a knack for creating intuitive and responsive we
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=rahul-aot&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=zccott&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahul-aot&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zccott&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-aot&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zccott&theme=dark&hide_border=true&layout=compact)
