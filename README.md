@@ -3,8 +3,8 @@
 
 A Full-Stack Developer with a knack for creating intuitive and responsive web applications
 
-- 🔭 Working with Angular, NestJS, Node.js, Java and PostgreSQL/MySQL
-- 🤖 Exploring AI-assisted development and LLM-powered features
+- 🔭 Mainly working with **Angular**, **Gen AI**, **FastAPI** and **Node.js**
+- 🤖 Building LLM-powered apps and AI-assisted workflows
 - 🌍 I'm based in India  
 - 🖥️ See my portfolio at [https://rahulap.vercel.app/](https://rahulap.vercel.app/) 
 - ✉️ You can contact me at [itsrahulap@gmail.com](mailto:itsrahulap@gmail.com)
