@@ -29,12 +29,13 @@ A Full-Stack Developer with a knack for creating intuitive and responsive web ap
 <a href="https://github.com/zccott"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 <a href="https://x.com/zccott"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
 <a href="https://www.linkedin.com/in/itsrahulap"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-<a href="https://www.threads.net/@zccott"><img src="assets/threads.svg" height="40" /></a>
-<a href="https://www.youtube.com/@itsrahulap"><img src="assets/youtube.svg" height="40" /></a>
+<a href="https://www.threads.net/@zccott"><img src="https://go-skill-icons.vercel.app/api/icons?i=threads" height="40" /></a>
+<a href="https://www.youtube.com/@itsrahulap"><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" height="40" /></a>
 <a href="mailto:itsrahulap@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
+
 
 ### 📊 GitHub Stats
 
