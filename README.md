@@ -13,7 +13,7 @@ A Full-Stack Developer with a knack for creating intuitive and responsive web ap
 
 ---
 
-<img src="https://raw.githubusercontent.com/rahul-aot/rahul-aot/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/zccott/zccott/output/snake.svg" />
 
 ---
 
